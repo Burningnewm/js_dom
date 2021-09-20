@@ -24,3 +24,7 @@ span {
 	color: blue;
 	transform: rotate(180deg);
 }
+.button {
+	border-color: blue;
+	padding: 20px;
+}
